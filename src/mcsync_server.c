@@ -1,3 +1,4 @@
+#include "platform.h"
 #include "common.h"
 #include "fs_utils.h"
 

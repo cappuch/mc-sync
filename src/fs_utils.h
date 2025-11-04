@@ -1,6 +1,7 @@
 #ifndef MCSYNC_FS_UTILS_H
 #define MCSYNC_FS_UTILS_H
 
+#include <sys/types.h>
 #include <sys/stat.h>
 
 int sanitize_name(const char *name);
