@@ -1,0 +1,6 @@
+*.o
+storage/
+
+mcsync
+mcsync-server
+.DS_Store
